@@ -13,7 +13,9 @@
 <a href="https://www.instagram.com/_lokendrasharma/">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
+<a href="https://discord.gg/TM7NRHbVVE">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
 <br />
 <br />
 
