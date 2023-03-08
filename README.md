@@ -1,5 +1,5 @@
 ### Hi there 👋:
-I am Lokendra Sharma, I am currently pursuing my bachelor's from Arya college, Jaipur.<br>also, I am working in Ezytm Technology, Jaipur as .NET Developer.
+I am Lokendra Sharma, I am currently pursuing my bachelor's from Arya college, Jaipur.<br>also, I am .NET Developer and Game Programmer.
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokendrash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokendrash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_lokendrasharma) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@lokendrash) 
@@ -9,4 +9,3 @@ I am Lokendra Sharma, I am currently pursuing my bachelor's from Arya college, J
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=volvein&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
----
