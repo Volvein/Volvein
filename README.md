@@ -9,7 +9,5 @@ I am Lokendra Sharma, I am currently pursuing my bachelor's from Arya college, J
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=volvein&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=volvein&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=volvein&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=volvein&icon=0&color=0)](https://visitcount.itsvg.in)
